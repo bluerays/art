@@ -1,5 +1,6 @@
 这是本人的非学术博客，地址是 http://art.yanping.me
 也欢迎大家投稿，邮箱是 chen@yanping.me
+我想看看本地库有修改时用git pull会怎么样
 
 要感谢两个人
 
