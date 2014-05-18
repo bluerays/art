@@ -12,7 +12,7 @@ meta:
 
 url: http://art.yanping.me
 
-baseurl: 
+baseurl: /
 
 markdown: kramdown
 
